@@ -1,0 +1,2 @@
+# Robust-Framework-for-Stress-Testing-Medical-Imaging-Models-using-Image-Reconstruction-Techniques
+Medical imaging models like DCGAN excel in ECG analysis but struggle with variations like rotations and noise, leading to unreliable results. Traditional metrics overlook these issues. This project develops a framework for stress testing models using image reconstruction to identify vulnerabilities and enhance their resilience and reliability
